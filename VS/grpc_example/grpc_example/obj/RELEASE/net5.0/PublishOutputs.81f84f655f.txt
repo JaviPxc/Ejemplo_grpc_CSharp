@@ -1,0 +1,10 @@
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\grpc_example.exe
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\grpc_example.dll
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\grpc_example.runtimeconfig.json
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\grpc_example.pdb
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\Google.Protobuf.dll
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\Grpc.Core.Api.dll
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\Grpc.Net.Client.dll
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\Grpc.Net.Common.dll
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Personal\pxcrepos\PLCnext_grpc_CSharp\VS\grpc_example\grpc_example\grpc_example\grpc_example.deps.json

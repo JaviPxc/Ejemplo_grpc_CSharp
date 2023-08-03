@@ -1,0 +1,2 @@
+obj\RELEASE\net5.0\linux-arm\plc\gds/WriteItem.cs: protobuf/ArpTypes.proto\
+ protobuf/Plc/Gds/WriteItem.proto

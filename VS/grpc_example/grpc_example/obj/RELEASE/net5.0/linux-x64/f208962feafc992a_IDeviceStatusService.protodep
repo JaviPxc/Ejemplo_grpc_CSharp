@@ -1,0 +1,3 @@
+obj\RELEASE\net5.0\linux-x64\device\interface/IDeviceStatusService.cs \
+obj\RELEASE\net5.0\linux-x64\device\interface/IDeviceStatusServiceGrpc.cs: protobuf/ArpTypes.proto\
+ protobuf/Device/Interface/IDeviceStatusService.proto

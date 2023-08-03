@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmBAFZWnNF+E5bC8aV9uxv4Bf6I1GFoRLFI/H+2BKBQ3t1DpnBV1r4EU5cYkIIXlQXS/gZY4F5FnMEAOpTDznw==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\pxcrepos\\PLCnext_grpc_CSharp\\VS\\grpc_example\\grpc_example\\grpc_example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j92nt7\\.nuget\\packages\\google.protobuf\\3.23.4\\google.protobuf.3.23.4.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\grpc.net.client\\2.55.0\\grpc.net.client.2.55.0.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\grpc.net.common\\2.55.0\\grpc.net.common.2.55.0.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\grpc.tools\\2.56.2\\grpc.tools.2.56.2.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\5.0.17\\microsoft.netcore.app.runtime.linux-arm.5.0.17.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.17\\microsoft.netcore.app.runtime.linux-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\5.0.17\\microsoft.aspnetcore.app.runtime.linux-arm.5.0.17.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.17\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\5.0.17\\microsoft.netcore.app.host.linux-arm.5.0.17.nupkg.sha512",
+    "C:\\Users\\j92nt7\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.17\\microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

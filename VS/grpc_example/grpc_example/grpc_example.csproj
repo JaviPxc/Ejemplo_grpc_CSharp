@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RuntimeIdentifiers>linux-arm;linux-x64</RuntimeIdentifiers>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.23.4" />
+    <PackageReference Include="Grpc.Net.Client" Version="2.55.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.56.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <Protobuf Include="protobuf\ArpTypes.proto" GrpcServices="Client" ProtoRoot="protobuf" />
+    <Protobuf Include="protobuf\Device\Interface\IDeviceStatusService.proto" GrpcServices="Client" ProtoRoot="protobuf" />
+    <Protobuf Include="protobuf\Plc\Gds\WriteItem.proto" GrpcServices="Client" ProtoRoot="protobuf" />
+    <Protobuf Include="protobuf\Plc\Gds\ReadItem.proto" GrpcServices="Client" ProtoRoot="protobuf" />
+    <Protobuf Include="protobuf\Plc\Gds\DataAccessError.proto" GrpcServices="Client" ProtoRoot="protobuf" />
+    <Protobuf Include="protobuf\Plc\Gds\IDataAccessService.proto" GrpcServices="Client" ProtoRoot="protobuf" />
+  </ItemGroup>
+
+</Project>

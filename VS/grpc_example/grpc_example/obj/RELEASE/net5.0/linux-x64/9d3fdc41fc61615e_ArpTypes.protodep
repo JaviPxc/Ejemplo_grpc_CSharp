@@ -1,0 +1,1 @@
+obj\RELEASE\net5.0\linux-x64/ArpTypes.cs: protobuf/ArpTypes.proto

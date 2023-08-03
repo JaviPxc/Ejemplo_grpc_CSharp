@@ -1,0 +1,3 @@
+obj\Debug\net5.0\plc\gds/ReadItem.cs: protobuf/Plc/Gds/DataAccessError.proto\
+ protobuf/ArpTypes.proto\
+ protobuf/Plc/Gds/ReadItem.proto

@@ -1,0 +1,2 @@
+obj\Debug\net5.0\plc\gds/WriteItem.cs: protobuf/ArpTypes.proto\
+ protobuf/Plc/Gds/WriteItem.proto
